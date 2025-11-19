@@ -5,7 +5,7 @@ Based in Noida, UP, India
 Currently sharpening skills in Automation, System Design & Backend development  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]((https://www.linkedin.com/in/utkarsh-tiwary/))
-[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-red?logo=gmail)](mailto:utkarsh.tiwari10203040@gmail.com)
+[![Email](https://img.shields.io/badge/Email-utkarsh.tiwari10203040@gmail.com-red?logo=gmail)](mailto:utkarsh.tiwari10203040@gmail.com)
 
 ---
 
@@ -26,9 +26,9 @@ Currently sharpening skills in Automation, System Design & Backend development
 ---
 
 ## 🚀 Selected Projects  
-- **Automation Framework** — A modular Selenium + TestNG framework with Page Object Model, reporting, and CI integration. *(link to repo)*  
-- **Backend Service Demo** — A Spring Boot microservice with REST API, Dockerised, with unit & integration tests. *(link to repo)*  
-- **DSA Solutions** — A curated repo of LeetCode/DSA problems solved in Java, aligned with Striver’s A2Z sheet. *(link to repo)*  
+- **Automation Framework** — A modular Selenium + TestNG framework with Page Object Model, reporting, and CI integration. 
+- **Backend Service Demo** — A Spring Boot microservice with REST API, Dockerised, with unit & integration tests.  
+- **DSA Solutions** — A curated repo of LeetCode/DSA problems solved in Java, aligned with Striver’s A2Z sheet.  
 
 ---
 
