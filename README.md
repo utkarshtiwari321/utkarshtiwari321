@@ -32,12 +32,6 @@ Currently sharpening skills in Automation, System Design & Backend development
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshtiwari321&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshtiwari321&layout=compact&theme=dark)
-
----
-
 ## 📫 Reach Me  
 - LinkedIn: https://www.linkedin.com/in/utkarsh-tiwary/  
 - Email: utkarsh.tiwari10203040@gmail.com
